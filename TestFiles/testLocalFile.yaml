@@ -1,0 +1,9 @@
+customer_id: gtolabsus
+deployment_type: mirroring
+feature_flags:
+  sawmill_state: enabled
+rtkbox16_deployment_id: gtolabsus43
+sensors:
+  nmap:
+    bypass:
+    - 0.0.0.0/0
